@@ -27,7 +27,7 @@ export default function Nav() {
           <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-blue-200 hover:text-white mr-4">
             Instalaciones
           </a>
-          <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-blue-200 hover:text-white mr-4">
+          <a href="#sucursales" className="block mt-4 lg:inline-block lg:mt-0 text-blue-200 hover:text-white mr-4">
             Sucursales
           </a>
           <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 text-blue-200 hover:text-white">
