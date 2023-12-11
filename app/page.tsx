@@ -1,6 +1,7 @@
 import HeroPage from './components/HeroPage';
 import Nav from './components/Nav';
 import Sucursal from './components/Sucursal';
+
 export default function Home() {
   return (
     <main className="h-full w-full ">
